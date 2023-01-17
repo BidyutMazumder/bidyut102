@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bidyut102
 - 👀 I’m interested in web , programming , Cross platform and networking .
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on via email .
 
 <!---
